@@ -5,8 +5,6 @@ Karate Logo
 
 A clean, efficient API test automation framework using Karate.
 
-🔗 Repository: github.com/akashpundhir/KarateFramework
-
 ---
 
 ## 📌 Overview
